@@ -1,0 +1,25 @@
+{
+  "name": "snug",
+  "version": "0.1.0",
+  "description": "Stay snug with travel advisories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://danactive@github.com/danactive/snug.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Dan BROOKS",
+  "license": "GPL-2.0 AND MIT",
+  "bugs": {
+    "url": "https://github.com/danactive/snug/issues"
+  },
+  "homepage": "https://github.com/danactive/snug#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
