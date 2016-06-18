@@ -1,6 +1,10 @@
 {
-	"latest-update": "",
-	"map": "",
-	"news": [],
-	"advisories": []
+	providers: [
+		{
+			"latest-update": "",
+			"map": "",
+			"news": [],
+			"advisories": []
+		}
+	]
 }
